@@ -1,6 +1,6 @@
 argon2-cffi==19.1.0
 cffi==1.12.3
-Django==2.2.5
+Django==2.2.27
 django-cors-headers==3.1.0
 django-debug-toolbar==2.0
 djangorestframework==3.10.3
